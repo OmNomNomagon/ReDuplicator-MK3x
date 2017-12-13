@@ -15,3 +15,7 @@ The Wanhao i3 is a fabulous printer, but as a new generations of printers has ar
 - Modular hotend, This design allows for the hotend to be replaced easily by removing a few screws. I will be creating a Titan Aero mount and possibly a E3DV6 mount.
 - Sturdier 4 bearing Prusa style X-gantry. Not sure if it was specific to my printer or a wanhao wide problem, but my X gantry always had a lot of wobble which may have been a source of printing artefacts.  
 - Noticeably better print quality due to a combination of everything above. I am able to print faster with better quality. 
+
+![noooice](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/main.jpg) 
+
+![noooice](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/DSC03641.jpg) 
