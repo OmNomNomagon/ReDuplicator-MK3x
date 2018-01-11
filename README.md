@@ -36,8 +36,17 @@ This project will be maintained both at [github](https://github.com/OmNomNomagon
 - [9. Cabling](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/9.-Cabling)
 - [9.1. Recommendations & Future Dev](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/9.1.-Recommendations-&-Future-Dev)
 
+
 ## Thanks and Acknowledgements
 - [Prusa Research MK2s](https://github.com/prusa3d/Original-Prusa-i3) 
 - [Datvr's Prusa MK2S-x](https://www.thingiverse.com/thing:1692666)
 - [Thorped's excellent Wanhao Fan Duct ](https://www.thingiverse.com/thing:1246425)
 - [Cyul's spool holder](https://www.thingiverse.com/thing:1635585)
+
+
+## Changelog
+1.0 - Initial Release
+
+1.1 - Updated idler files with multiple z endstop mount points for upcoming Titan Aero upgrade. Sturdier cable cover box. Added 1Meter GT2 belt to BOM as the stock belt may not be long enough (can anyone confirm?)
+
+1.2 - Updated the **Part Fan Bracket** to **Part Fan Bracket V1.1** The original doesn't align with the carriage plates properly. Please print the revised one.
