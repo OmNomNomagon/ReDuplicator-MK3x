@@ -19,6 +19,10 @@ The Wanhao i3 is a fabulous printer, but lately, new generations of printers hav
 
 ![Oh hai](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/side.jpg)
 
+Sample of improved print quality. 0.24mm layer height @ 70mm/s (titan aero).
+
+![boatyMcboat](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty1.JPG)
+
 This project will be maintained both at [github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx) and at [thingiverse](https://www.thingiverse.com/thing:2686588).
 
 
