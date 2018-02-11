@@ -57,4 +57,4 @@ This project will be maintained both at [github](https://github.com/OmNomNomagon
 
 1.03 - Uploaded a new Y Carriage Belt Holder. This one is based on the current MK3 design and is much easier to fix and tension.
 
-1.04 - **X Gantry Idler 9MM V2** was missing the heat-sert insert holes to mount the cable box. Updated and fixed with **X Gantry Idler 9MM V3**. If you have already printed V2, you keep the part and manually drill 2x 4mm holes spaced 9mm wide and 6mm deep.
+1.04 - **X Gantry Idler 9MM V2** was missing the heat-sert insert holes to mount the cable box. Updated and fixed with **X Gantry Idler 9MM V3**. If you have already printed V2, you can keep the part and manually drill 2x 4mm holes spaced 9mm wide and 6mm deep.
