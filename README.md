@@ -60,16 +60,15 @@ This project will be maintained both at [github](https://github.com/OmNomNomagon
 1.04 - **X Gantry Idler 9MM V2** was missing the heat-sert insert holes to mount the cable box. Updated and fixed with **X Gantry Idler 9MM V3**. If you have already printed V2, you can keep the part and manually drill 2x 4mm holes spaced 9mm wide and 6mm deep.
 
 1.1 - Major Prusa MK3 Update. This updates an update of many of the original MK2s based parts to MK3 Based parts. This includes;
-        
-        - MK3 Based Part Cooling shroud and mount. It performs much better than the original Thorped based one. flawless @60 degree overhang with some sagging @70 degree overhang. The original would show artefacts [@60 degrees.](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg). Almost comparable to the [Dii Cooler.](https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/) 
-        
-        - Much improved X Carriage. This uses the new [MK3 belt mounting method](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg) which is much easier to install under tension. The whole extruder assembly can now also easily slide on and off the rods to greatly simplify installation and maintenance. 16mm M3 screws are used to secure the bearings. I've also made and tested changes which allow the extruder assembly to be built without heat-serts and can be substituted with M3 nylocks. NOTE: due to these changes the Rear carriage plate is NOT compatible with the existing Front extruder plate as the hole spacing has been changed. The New Front extruder plate must be used.
-        
-        - Front Extruder Plate. Better spacing around the hotend to improve the filament path. Updating Hole Spacing to be compatible with the new Rear Carriage Plate. Strengthened BLTouch mount. Increase spacing around heater block to reduce residual heat. Not compatible with old extruder plate.
-        
-        - X Axis Motor Mount. Incorporates the new MK3 design. Better Spacing to ensure a straighter belt path. Includes new MK3 tensioner to easily tension X belt. Requires M3nS Nut and 20mm M3 screw. (Enough tension can be applied by without the M3nS) Installation is similar to the Prusa instructions [here, steps 11-18.](http://manual.prusa3d.com/Guide/4.+Z-axis+assembly/509?lang=en)
-        
-        - as this project  contains dozens of files already, Older retired files are retired to the [Retired Versions directory in github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions)
-        
-        - Thank you!
+
+  - MK3 Based Part Cooling shroud and mount. It performs much better than the original Thorped based one. flawless @60 degree overhang with some sagging @70 degree overhang. The original would show artefacts [@60 degrees.](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/9%20Titan/overhang.jpg). Almost comparable to the [Dii Cooler.](https://www.reddit.com/r/3Dprinting/comments/7kexdv/a_nearly_comprehensive_study_of_cooling_fans_and/) 
+
+  - Much improved X Carriage. This uses the new [MK3 belt mounting method](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/4%20Hotend/CarriageNew.jpg) which is much easier to install under tension. The whole extruder assembly can now also easily slide on and off the rods to greatly simplify installation and maintenance. 16mm M3 screws are used to secure the bearings. I've also made and tested changes which allow the extruder assembly to be built without heat-serts and can be substituted with M3 nylocks. NOTE: due to these changes the Rear carriage plate is NOT compatible with the existing Front extruder plate as the hole spacing has been changed. The New Front extruder plate must be used.
+
+  - Front Extruder Plate. Better spacing around the hotend to improve the filament path. Updating Hole Spacing to be compatible with the new Rear Carriage Plate. Strengthened BLTouch mount. Increase spacing around heater block to reduce residual heat. Not compatible with old extruder plate.
+
+  - X Axis Motor Mount. Incorporates the new MK3 design. Better Spacing to ensure a straighter belt path. Includes new MK3 tensioner to easily tension X belt. Requires M3nS Nut and 20mm M3 screw. (Enough tension can be applied by without the M3nS) Installation is similar to the Prusa instructions [here, steps 11-18.](http://manual.prusa3d.com/Guide/4.+Z-axis+assembly/509?lang=en)
+
+  - as this project  contains dozens of files already, Older retired files are retired to the [Retired Versions directory in github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions)
+- Thank you!
 
