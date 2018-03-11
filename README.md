@@ -69,6 +69,7 @@ This project will be maintained both at [github](https://github.com/OmNomNomagon
 
   - X Axis Motor Mount. Incorporates the new MK3 design. Better Spacing to ensure a straighter belt path. Includes new MK3 tensioner to easily tension X belt. Requires M3nS Nut and 20mm M3 screw. (Enough tension can be applied by without the M3nS) Installation is similar to the Prusa instructions [here, steps 11-18.](http://manual.prusa3d.com/Guide/4.+Z-axis+assembly/509?lang=en)
 
-  - as this project  contains dozens of files already, Older retired files are retired to the [Retired Versions directory in github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions)
-- Thank you!
+  - As this project  contains dozens of files already, Older retired files are retired to the [Retired Versions directory in github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions)
+
+  - Thank you!
 
