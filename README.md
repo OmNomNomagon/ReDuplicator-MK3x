@@ -17,6 +17,7 @@ The Wanhao i3 is a fabulous printer, but new generations of printers have begun 
 - All Wanhao i3 variants and rebrands are compatible, however the plus will require additional work to create an enclosure for the electronics. This project can also be built from scratch, or salvaged from other printers as long as measurements are altered accordingly. 
 
 ![Oh hai](https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/PrintDemo.webp?raw=true)
+
 Sample Print @100mm/s on the titan aero extruder.
 
 ![Oh hai](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/side.jpg)
