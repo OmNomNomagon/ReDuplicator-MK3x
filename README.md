@@ -1,3 +1,6 @@
+## ReDuplicator-MK3x
+  
+  
 This project is a complete overhaul of the original Wanhao i3 with a few main objectives:
 - Keep the core components of the printer while upgrading its structure.  
 - Create maximum rigidity through a sturdy 3030 Aluminium extrusion frame. 
