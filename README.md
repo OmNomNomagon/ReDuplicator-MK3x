@@ -1,4 +1,4 @@
-## ReDuplicator-MK3x
+## ReDuplicator MK3x
   
   
 This project is a complete overhaul of the original Wanhao i3 with a few main objectives:
