@@ -59,9 +59,9 @@ The files were created using a combination of Fusion360 and tinkercad. They can 
 ## Changelog
 1.0 - Initial Release
 
-1.1 - Updated idler files with multiple z endstop mount points for upcoming Titan Aero upgrade. Sturdier cable cover box. Added 1Meter GT2 belt to BOM as the stock belt may not be long enough (can anyone confirm?)
+1.01 - Updated idler files with multiple z endstop mount points for upcoming Titan Aero upgrade. Sturdier cable cover box. Added 1Meter GT2 belt to BOM as the stock belt may not be long enough (can anyone confirm?)
 
-1.2 - Updated the **Part Fan Bracket** to **Part Fan Bracket V1.1** The original doesn't align with the carriage plates properly. Please print the revised one.
+1.02 - Updated the **Part Fan Bracket** to **Part Fan Bracket V1.1** The original doesn't align with the carriage plates properly. Please print the revised one.
 
 1.03 - Uploaded a new Y Carriage Belt Holder. This one is based on the current MK3 design and is much easier to fix and tension.
 
@@ -78,5 +78,5 @@ The files were created using a combination of Fusion360 and tinkercad. They can 
   - X Axis Motor Mount. Incorporates the new MK3 design. Better Spacing to ensure a straighter belt path. Includes new MK3 tensioner to easily tension X belt. Requires M3nS Nut and 20mm M3 screw. (Enough tension can be applied by without the M3nS) Installation is similar to the Prusa instructions [here, steps 11-18.](http://manual.prusa3d.com/Guide/4.+Z-axis+assembly/509?lang=en)
 
   - As this project  contains dozens of files already, Older retired files are retired to the [Retired Versions directory in github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions)
-
-  - Thank you!
+  
+  1.1.1 - Endstop Part For sensorless homing with TMC2130 Drivers.
