@@ -80,3 +80,13 @@ The files were created using a combination of Fusion360 and tinkercad. They can 
   - As this project  contains dozens of files already, Older retired files are retired to the [Retired Versions directory in github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions)
   
   1.1.1 - Endstop Part For sensorless homing with TMC2130 Drivers.
+
+
+1.2 - 05/11/2018 - Multiple improvements based on Prusa MK3 R3 release. This includes:
+
+  - Prusa MK3 R3 based part cooling shroud. This gives a noticeable improvement over the original shroud. Also improved the clearance between the shroud and the nozzle.
+
+  - Improved X Carriage rear plate. This was strengthend to better handle bumps and knocks. Rigidity is also improved. It is still a common part between the MK10 and titan aero extruders. 
+
+  - Strengthened Z Rod Securer parts. Some people had issues with these snapping in PLA but should no longer be an issue.
+
