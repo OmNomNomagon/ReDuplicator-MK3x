@@ -1,6 +1,3 @@
-## ReDuplicator MK3x
-  
-  
 This project is a complete overhaul of the original Wanhao i3 with a few main objectives:
 - Keep the core components of the printer while upgrading its structure.  
 - Create maximum rigidity through a sturdy 3030 Aluminium extrusion frame. 
@@ -21,7 +18,7 @@ The Wanhao i3 is a fabulous printer, but new generations of printers have begun 
 
 ![Oh hai](https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/PrintDemo.webp?raw=true)
 
-Sample Print @100mm/s on the titan aero extruder.
+Sample Print @~100mm/s on the titan aero extruder.
 
 ![Oh hai](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/side.jpg)
 
@@ -30,9 +27,8 @@ Sample of improved print quality. 0.24mm layer height @ 70mm/s (titan aero).
 ![boatyMcboat](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/boaty1.JPG)
 
 
-This project will be maintained both at [github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx) and at [thingiverse](https://www.thingiverse.com/thing:2686588). 
+This project will be maintained both at [github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx) and at [thingiverse](https://www.thingiverse.com/thing:2686588). The files were created using a combination of Fusion360 and tinkercad. They can be viewed and edited via [this Tinkercad link.](https://www.tinkercad.com/things/azPlfmHU5MQ#/)  
 
-The files were created using a combination of Fusion360 and tinkercad. They can be viewed and edited via [this Tinkercad link.](https://www.tinkercad.com/things/azPlfmHU5MQ#/) 
 
 
 ## Table Of Contents
@@ -43,6 +39,7 @@ The files were created using a combination of Fusion360 and tinkercad. They can 
 - [4. Begin The ZTower](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/4.-Begin-The-ZTower)
 - [5.1 Hotend MK10 Original](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/5.1-Hotend-MK10-Original)
 - [5.2 Hotend Titan Aero Upgrade](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/5.2-Hotend-Titan-Aero-Upgrade)
+- [5.3 Hotend E3D Hemera Upgrade](https://github.com/OmNomNomagon/ReDuplicator-MK3x/wiki/5.3-Hotend-Hemera-upgrade)
 - [6. XAxis Gantry](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/6.-XAxis-Gantry)
 - [7. Complete the ZTower](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/7.-Complete--the-ZTower)
 - [8. YAxis](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/wiki/8.--YAxis)
@@ -79,8 +76,7 @@ The files were created using a combination of Fusion360 and tinkercad. They can 
 
   - As this project  contains dozens of files already, Older retired files are retired to the [Retired Versions directory in github](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/tree/master/STLs%20Reduplicator%20Core%20Parts/Retired%20Versions)
   
-  1.1.1 - Endstop Part For sensorless homing with TMC2130 Drivers.
-
+1.1.1 - Endstop Part For sensorless homing with TMC2130 Drivers.
 
 1.2 - 05/11/2018 - Multiple improvements based on Prusa MK3 R3 release. This includes:
 
@@ -90,3 +86,4 @@ The files were created using a combination of Fusion360 and tinkercad. They can 
 
   - Strengthened Z Rod Securer parts. Some people had issues with these snapping in PLA but should no longer be an issue.
 
+1.3 - 17/02/2020 - E3D Hemera mount. Updated fan duct to the most recent R4 release. Added an angle for increased rear fan duct clearance. This will filter down to the other hotend designs shortly.
