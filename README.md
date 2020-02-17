@@ -86,4 +86,4 @@ This project will be maintained both at [github](https://github.com/OmNomNomagon
 
   - Strengthened Z Rod Securer parts. Some people had issues with these snapping in PLA but should no longer be an issue.
 
-1.3 - 17/02/2020 - E3D Hemera mount. Updated fan duct to the most recent R4 release. Added an angle for increased rear fan duct clearance. This will filter down to the other hotend designs shortly.
+1.3 - 17/02/2020 - E3D Hemera mount. Updated fan duct to the most recent R4 release. Added an angle for increased rear fan duct clearance. This will filter down to the other hotend designs shortly. Initial update of parts across to fusion 360. A number of parts have been converted and this will continue over time.
