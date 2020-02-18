@@ -87,3 +87,10 @@ This project will be maintained both at [github](https://github.com/OmNomNomagon
   - Strengthened Z Rod Securer parts. Some people had issues with these snapping in PLA but should no longer be an issue.
 
 1.3 - 17/02/2020 - E3D Hemera mount. Updated fan duct to the most recent R4 release. Added an angle for increased rear fan duct clearance. This will filter down to the other hotend designs shortly. Initial update of parts across to fusion 360. A number of parts have been converted and this will continue over time.
+
+![](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMain.jpg?raw=true)
+
+1.3.1 - 19/02/2020 - MK52 Removeable heatbed Mod - resized rods and extrusions to acomodate the prusa MK3 heatbed.
+
+![](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Main.jpg?raw=true)
+
