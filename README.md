@@ -17,7 +17,6 @@ The Wanhao i3 is a fabulous printer, but new generations of printers have begun 
 - All Wanhao i3 variants and rebrands are compatible, however the plus will require additional work to create an enclosure for the electronics. This project can also be built from scratch, or salvaged from other printers as long as measurements are altered accordingly. 
 
 ![Oh hai](https://github.com/OmNomNomagon/ReDuplicator-MK3x/blob/master/Pics/1%20Glamor%20Shots/PrintDemo.webp?raw=true)
-
 Sample Print @~100mm/s on the titan aero extruder.
 
 ![Oh hai](https://raw.githubusercontent.com/OmNomNomagon/ReDuplicator-MK2sx/master/Pics/1%20Glamor%20Shots/side.jpg)
@@ -90,7 +89,11 @@ This project will be maintained both at [github](https://github.com/OmNomNomagon
 
 ![](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/10%20Hemera/HemeraMain.jpg?raw=true)
 
-1.3.1 - 19/02/2020 - MK52 Removeable heatbed Mod - resized rods and extrusions to acomodate the prusa MK3 heatbed.
+Improved cable mounting system by clipping onto the X axis motor
+
+![](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/8%20Cables/CableMotor.jpg?raw=true)
+
+1.3.1 - 19/02/2020 - MK52 Removeable heatbed Mod - resized rods and extrusions to accommodate the prusa MK3 heatbed.
 
 ![](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Main.jpg?raw=true)
 
