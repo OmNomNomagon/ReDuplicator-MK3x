@@ -98,3 +98,9 @@ Improved cable mounting system by clipping onto the X axis motor
 
 ![](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Main.jpg?raw=true)
 
+1.4 - Mk52 and Hemera Parts update. Significantly improved X idler and motor holder, new Z Rod Holder design for much easier installations and accuracy. Improved Hemera fan shroud with improved airflow. These changes filter down to the original reduplicator parts.
+
+![](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Ztop.jpg?raw=true)
+
+![](https://github.com/OmNomNomagon/ReDuplicator-MK2sx/blob/master/Pics/11%20MK52%20Expansion/Mk52Tensioner.jpg?raw=true)
+
